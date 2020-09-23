@@ -1,0 +1,19 @@
+table{  
+      font-family: helvetica,sans-serif;
+      border-collapse: collapse;
+      border-width: 2px;
+      border-style: solid;
+      border-color: black
+
+}
+
+th{
+    font-weight: bolder;
+    background-color: darkblue;
+    border-color: black
+}
+
+h1{ 
+   color: black;
+    font-family: fantasy;
+  }
